@@ -1,0 +1,11 @@
+[33mcommit 3b24ae2f2d470f8108a05e25702f3383cc7a11e6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: sebasvg <svizcarragradill@gmail.com>
+Date:   Fri Jun 25 00:17:49 2021 -0500
+
+    Añadi la carperta .vscode al archivo .gitignore
+
+[33mcommit a82207e952b6bfc8590ee63126060b6184ea9eef[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sebassvg <72824821+sebassvg@users.noreply.github.com>
+Date:   Fri Jun 25 00:11:38 2021 -0500
+
+    Initial commit
